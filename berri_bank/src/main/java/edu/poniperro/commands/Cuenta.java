@@ -10,11 +10,11 @@ public class Cuenta {
         this.berris = berris;
     }
 
-    private double getBerris() {
+    public double getBerris() {
         return berris;
     }
 
-    private int getId() {
+    public int getId() {
         return id;
     }
 
