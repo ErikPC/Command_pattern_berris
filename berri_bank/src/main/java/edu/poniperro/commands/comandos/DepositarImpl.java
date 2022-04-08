@@ -1,4 +1,4 @@
-package edu.poniperro.commands.intefaces.comandos;
+package edu.poniperro.commands.comandos;
 
 import edu.poniperro.commands.Cuenta;
 import edu.poniperro.commands.intefaces.Order;
