@@ -1,5 +1,6 @@
-package edu.poniperro.commands;
+package edu.poniperro.commands.intefaces.comandos;
 
+import edu.poniperro.commands.Cuenta;
 import edu.poniperro.commands.intefaces.Order;
 
 public class DepositarImpl implements Order {
