@@ -21,7 +21,7 @@ public class Cuenta {
     public void retirar(double berris) {
         this.berris = getBerris() - berris;
         System.out.println(
-                "[COMANDO RETIRAR]\nNami ha venito y te ha robado: " + berris + "\n" + "Cuenta: " + getId() + "\n" +
+                "[COMANDO RETIRAR]\nNami ha venido y te ha robado: " + berris + "\n" + "Cuenta: " + getId() + "\n" +
                         "Nami te ha dejado con: " + getBerris());
         System.out.println("La marina no logra encontrar a la gata ladrona");
     }
