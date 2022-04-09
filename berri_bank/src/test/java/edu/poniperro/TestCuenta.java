@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 import edu.poniperro.commands.Cuenta;
 
-public class CuentaTest {
+public class TestCuenta {
 
     Cuenta luffy = new Cuenta(1, 500);
     Cuenta usopp = new Cuenta(3, 200);
