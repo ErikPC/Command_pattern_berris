@@ -20,7 +20,7 @@ Asi que a ti como ingeniero del barco "Franky" te han pueso a preparar el funcio
 
 <img src="./berri_bank/docs/Diagrama_UML.PNG" />
 
-_Diagrama realizado conlas linas manitas de Usopp_
+_Diagrama realizado con las lindas manitas de Usopp_
 
 <img src="./berri_bank/docs/usopp_uml.PNG" width=30% />
 
