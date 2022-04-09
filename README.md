@@ -36,4 +36,4 @@ He realizado este ejemplo de Command Patter gracias a este [video](https://www.y
 
 Jacoco report
 
-<img src=".berri_bank/docs/coverage.PNG" />
+<img src="./berri_bank/docs/coverage.PNG" />
