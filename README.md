@@ -26,6 +26,14 @@ _Diagrama realizado con las lindas manitas de Usopp_
 
 Una vez te dio el main , te dejo tranquilo trabajando y te especificó que queria una salida por consola parecida a esta:
 
-<img src="./berri_bank/docs/salida_consola.PNG">
+<img src="./berri_bank/docs/salida_consola.PNG"/>
+
+Acuerdate de hacer los casos test , si no quieres acabar como Luffy.
+
+<img src="./berri_bank/docs/nami_pega.png" width=30% />
 
 He realizado este ejemplo de Command Patter gracias a este [video](https://www.youtube.com/watch?v=hDBOfyzFKEU)
+
+Jacoco report
+
+<img src=".berri_bank/docs/coverage.PNG" />
